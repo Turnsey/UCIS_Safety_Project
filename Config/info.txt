@@ -1,0 +1,13 @@
+Apps Used:
+
+HeidiSQL- To connect to and view databases
+WinSCP- File transfer app
+Brackets- Code editor
+Google Chrome- Browser used to test the webapp
+
+Languages:
+PHP
+MySQL
+HTML5
+CSS
+JS
